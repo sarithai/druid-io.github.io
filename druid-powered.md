@@ -113,6 +113,9 @@ Jolata leverages Druid as the analytics data store for the realtime network perf
 
 * [Realtime Analytics Powered by Druid](https://www.linkedin.com/pulse/realtime-analytics-powered-druid-kiran-patchigolla)
 
+## Katch
+Katch uses Druid to process Click stream data under 40 seconds latency. Over 21 billion events are processed for near real time analytics and drill down capabilities
+
 ## KT NexR
 
 KT NexR is the leading provider of the data analytics platform. We use Druid as a real-time analysis tool to help our customers to analyze multidimensional data in interactive ways.
